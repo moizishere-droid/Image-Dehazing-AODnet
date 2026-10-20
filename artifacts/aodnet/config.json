@@ -1,0 +1,22 @@
+{
+  "command": "train",
+  "manifest": "reports\\splits.json",
+  "output": "artifacts\\aodnet",
+  "seed": 2026,
+  "steps": 600,
+  "batch_size": 8,
+  "patch": 96,
+  "lr": 0.001,
+  "max_side": 384,
+  "validate_every": 50,
+  "threads": 2,
+  "python": "3.12.14",
+  "torch": "2.14.1+cpu",
+  "device": "cpu",
+  "parameters": 1761,
+  "manifest_sha256": "b08444616fa6b2c7a0a0d8ea90543cfacf425e771ce35ad82688e512a0767c1a",
+  "initialization": "from scratch; identity last layer",
+  "selection": "highest mean validation PSNR",
+  "training_scenes": 35,
+  "validation_scenes": 5
+}

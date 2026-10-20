@@ -1,0 +1,108 @@
+{
+  "dataset": "O-HAZE",
+  "test_scenes": 5,
+  "protocol": "Custom scene-level 35 train / 5 validation / 5 test split; all test scenes unseen by this from-scratch model",
+  "max_side": 384,
+  "resize": "aspect-ratio preserving Lanczos",
+  "data_range": 1,
+  "color": "RGB",
+  "psnr": "per-image RGB MSE then arithmetic mean of PSNR; no crop",
+  "ssim": "11x11 Gaussian, sigma=1.5, population covariance, K1=.01, K2=.03; valid window (5px boundary excluded)",
+  "checkpoint_sha256": "4cfb705b3a92479b107c5325e047ca5bd4d445b543f70c8fde2561b4b6f99ede",
+  "manifest_sha256": "b08444616fa6b2c7a0a0d8ea90543cfacf425e771ce35ad82688e512a0767c1a",
+  "metadata": {
+    "config": {
+      "command": "train",
+      "manifest": "reports\\splits.json",
+      "output": "artifacts\\aodnet",
+      "seed": 2026,
+      "steps": 600,
+      "batch_size": 8,
+      "patch": 96,
+      "lr": 0.001,
+      "max_side": 384,
+      "validate_every": 50,
+      "threads": 2,
+      "python": "3.12.14",
+      "torch": "2.14.1+cpu",
+      "device": "cpu",
+      "parameters": 1761,
+      "manifest_sha256": "b08444616fa6b2c7a0a0d8ea90543cfacf425e771ce35ad82688e512a0767c1a",
+      "initialization": "from scratch; identity last layer",
+      "selection": "highest mean validation PSNR",
+      "training_scenes": 35,
+      "validation_scenes": 5
+    },
+    "best_step": 50,
+    "validation_psnr_db": 17.49003251322456,
+    "validation_ssim": 0.7144171799141324
+  },
+  "summary": {
+    "input": {
+      "psnr_db": 14.129454079811346,
+      "ssim": 0.6649543417182349
+    },
+    "model": {
+      "psnr_db": 17.92803672806825,
+      "ssim": 0.736839789224916
+    }
+  },
+  "per_scene": [
+    {
+      "scene_id": "07",
+      "input": {
+        "psnr_db": 17.343944309576763,
+        "ssim": 0.7928615609838071
+      },
+      "model": {
+        "psnr_db": 21.71679550630632,
+        "ssim": 0.8041464327652048
+      }
+    },
+    {
+      "scene_id": "43",
+      "input": {
+        "psnr_db": 16.547681813692332,
+        "ssim": 0.7739412151547542
+      },
+      "model": {
+        "psnr_db": 19.59194809740014,
+        "ssim": 0.8557453374246211
+      }
+    },
+    {
+      "scene_id": "33",
+      "input": {
+        "psnr_db": 14.89588659258201,
+        "ssim": 0.7008305811768888
+      },
+      "model": {
+        "psnr_db": 18.60622985742381,
+        "ssim": 0.8141031204753033
+      }
+    },
+    {
+      "scene_id": "21",
+      "input": {
+        "psnr_db": 10.59199025979515,
+        "ssim": 0.545198726583057
+      },
+      "model": {
+        "psnr_db": 15.632840847736542,
+        "ssim": 0.6690265266273946
+      }
+    },
+    {
+      "scene_id": "08",
+      "input": {
+        "psnr_db": 11.267767423410472,
+        "ssim": 0.5119396246926671
+      },
+      "model": {
+        "psnr_db": 14.092369331474439,
+        "ssim": 0.5411775288320559
+      }
+    }
+  ],
+  "evaluated_at_utc": "2026-10-20T11:32:07.694429+00:00"
+}

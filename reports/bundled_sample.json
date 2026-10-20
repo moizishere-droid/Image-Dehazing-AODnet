@@ -1,0 +1,11 @@
+{
+  "input": {
+    "psnr_db": 25.823586966545605,
+    "ssim": 0.9293732153306435
+  },
+  "model": {
+    "psnr_db": 18.346714915090043,
+    "ssim": 0.844719419671161
+  },
+  "scope": "One bundled indoor example; not part of the O-HAZE training or held-out average"
+}

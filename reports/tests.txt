@@ -1,0 +1,15 @@
+test_checkpoint_roundtrip (test_core.DehazingTests.test_checkpoint_roundtrip) ... ok
+test_identity_initialization (test_core.DehazingTests.test_identity_initialization) ... ok
+test_identity_metrics (test_core.DehazingTests.test_identity_metrics) ... ok
+test_known_psnr (test_core.DehazingTests.test_known_psnr) ... ok
+test_missing_pair_rejected (test_core.DehazingTests.test_missing_pair_rejected) ... ok
+test_paired_augmentation (test_core.DehazingTests.test_paired_augmentation) ... ok
+test_parameter_count (test_core.DehazingTests.test_parameter_count) ... ok
+test_scene_split_reproducibility (test_core.DehazingTests.test_scene_split_reproducibility) ... ok
+test_ssim_symmetry_and_bad_size (test_core.DehazingTests.test_ssim_symmetry_and_bad_size) ... ok
+test_training_step_changes_weights (test_core.DehazingTests.test_training_step_changes_weights) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.954s
+
+OK

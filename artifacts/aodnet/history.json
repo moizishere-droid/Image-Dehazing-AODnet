@@ -1,0 +1,86 @@
+[
+  {
+    "step": 50,
+    "training_batch_mse": 0.0330967977643013,
+    "validation_psnr_db": 17.49003251322456,
+    "validation_ssim": 0.7144171799141324,
+    "seconds": 7.759587800013833
+  },
+  {
+    "step": 100,
+    "training_batch_mse": 0.017078973352909088,
+    "validation_psnr_db": 17.07948262911623,
+    "validation_ssim": 0.6913135721562165,
+    "seconds": 15.410725700028706
+  },
+  {
+    "step": 150,
+    "training_batch_mse": 0.01169203408062458,
+    "validation_psnr_db": 17.213039035042083,
+    "validation_ssim": 0.7069234785297331,
+    "seconds": 23.273962900042534
+  },
+  {
+    "step": 200,
+    "training_batch_mse": 0.018959345296025276,
+    "validation_psnr_db": 17.20975842661346,
+    "validation_ssim": 0.7013225897821952,
+    "seconds": 31.944909700017888
+  },
+  {
+    "step": 250,
+    "training_batch_mse": 0.01560168620198965,
+    "validation_psnr_db": 17.356267869769212,
+    "validation_ssim": 0.7093022755976368,
+    "seconds": 40.20921610004734
+  },
+  {
+    "step": 300,
+    "training_batch_mse": 0.02735249139368534,
+    "validation_psnr_db": 17.283547010325115,
+    "validation_ssim": 0.7049547479167634,
+    "seconds": 48.24013190000551
+  },
+  {
+    "step": 350,
+    "training_batch_mse": 0.02679137885570526,
+    "validation_psnr_db": 17.29579752310725,
+    "validation_ssim": 0.707523049743214,
+    "seconds": 56.53966050001327
+  },
+  {
+    "step": 400,
+    "training_batch_mse": 0.02068972960114479,
+    "validation_psnr_db": 17.260862577802456,
+    "validation_ssim": 0.7093494737507523,
+    "seconds": 64.93088990001706
+  },
+  {
+    "step": 450,
+    "training_batch_mse": 0.02401653863489628,
+    "validation_psnr_db": 17.37724189138351,
+    "validation_ssim": 0.7108730873330433,
+    "seconds": 73.06195600004867
+  },
+  {
+    "step": 500,
+    "training_batch_mse": 0.01778200827538967,
+    "validation_psnr_db": 17.367011767254926,
+    "validation_ssim": 0.7096735953279144,
+    "seconds": 82.21683950000443
+  },
+  {
+    "step": 550,
+    "training_batch_mse": 0.025723079219460487,
+    "validation_psnr_db": 17.352835463311038,
+    "validation_ssim": 0.7111861985571349,
+    "seconds": 91.50164850003785
+  },
+  {
+    "step": 600,
+    "training_batch_mse": 0.018628191202878952,
+    "validation_psnr_db": 17.354925349775193,
+    "validation_ssim": 0.7104386121882044,
+    "seconds": 100.62147579999873
+  }
+]

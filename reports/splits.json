@@ -1,0 +1,367 @@
+{
+  "dataset": "O-HAZE",
+  "seed": 2026,
+  "protocol": "Custom 35/5/5 scene split; not the official challenge split",
+  "rows": [
+    {
+      "scene_id": "26",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/26_outdoor_hazy.jpg",
+      "hazy_sha256": "03f0ae6be8219b40bfa9dd02826d7bf62d64fe3f144ef5a440e5a5889fa716e9",
+      "clear": "datasets/o_haze/clear/26_outdoor_GT.jpg",
+      "clear_sha256": "957d5222a4ff88872d0884679f0732bfb4a8a3f2ea9a800adca35e3ca2f169cb"
+    },
+    {
+      "scene_id": "24",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/24_outdoor_hazy.jpg",
+      "hazy_sha256": "152d029fae3de2a6879c067b36ab3f049de63ec27c5324f9804fdfc888f1a1e3",
+      "clear": "datasets/o_haze/clear/24_outdoor_GT.jpg",
+      "clear_sha256": "d18ea7b4ebed77fe4b9b13f562aa0c4049046c109618ef2a5399e3699a80fef2"
+    },
+    {
+      "scene_id": "45",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/45_outdoor_hazy.jpg",
+      "hazy_sha256": "c5d87ee0b302ea9e06597609e2a3120549909ebfe1458bc6d62e93d94f9d263b",
+      "clear": "datasets/o_haze/clear/45_outdoor_GT.jpg",
+      "clear_sha256": "f75e66806f5bbbc8fb3f2aa2932a159adfa2c708867c1bbd5d03c247c7421304"
+    },
+    {
+      "scene_id": "25",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/25_outdoor_hazy.jpg",
+      "hazy_sha256": "df2bf04b618eb58bd57392355f15a7a2048605386ad3c5653879cc70f3bd1473",
+      "clear": "datasets/o_haze/clear/25_outdoor_GT.jpg",
+      "clear_sha256": "d6e372357293149a4be957fdafc9ba696644ea5d204c41f769fc04971b129358"
+    },
+    {
+      "scene_id": "30",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/30_outdoor_hazy.jpg",
+      "hazy_sha256": "dfc97503703d659155bd0d521cacf092539b07d7effb7af4a0f0be00b90a46de",
+      "clear": "datasets/o_haze/clear/30_outdoor_GT.jpg",
+      "clear_sha256": "b639bcc990d886ac8315b3d221c29179642337072f20dbe3d2cf5baf11cb5a98"
+    },
+    {
+      "scene_id": "14",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/14_outdoor_hazy.jpg",
+      "hazy_sha256": "b9c38acf0ec029e16ce452a4522fa5757602b1e68643387a7631a2e9c10534f8",
+      "clear": "datasets/o_haze/clear/14_outdoor_GT.jpg",
+      "clear_sha256": "876be78fca59ec77c87d034aa29946aa460e2c00dcd2b6df91abce17fc79a845"
+    },
+    {
+      "scene_id": "05",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/05_outdoor_hazy.jpg",
+      "hazy_sha256": "a7654882a57dccd5e617aba783167368dd878877736f6005f2d6c533c2064d4c",
+      "clear": "datasets/o_haze/clear/05_outdoor_GT.jpg",
+      "clear_sha256": "6b30c596c294014b38a2de973c2cf5d4a60967484ecbe19d511d4367fc77c0b3"
+    },
+    {
+      "scene_id": "28",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/28_outdoor_hazy.jpg",
+      "hazy_sha256": "748555a5e9765691071235ed2757f3ef15dc37ddbfcc86fa637b0d12564d2708",
+      "clear": "datasets/o_haze/clear/28_outdoor_GT.jpg",
+      "clear_sha256": "df85f6fd4366cecf22e33959dadfd907875cbb1e379ab5034411410ca9889b27"
+    },
+    {
+      "scene_id": "06",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/06_outdoor_hazy.jpg",
+      "hazy_sha256": "b76949368ae8646f1dd9b32ab327ad577b27fb66761db80891cffcff1b48f4b3",
+      "clear": "datasets/o_haze/clear/06_outdoor_GT.jpg",
+      "clear_sha256": "8a3964ac5d59dc557ab591d5349bc68ebf75754c41c559ea3de76a9035c14615"
+    },
+    {
+      "scene_id": "02",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/02_outdoor_hazy.jpg",
+      "hazy_sha256": "e9fda4d784d13f8e2cba9d535afbc9e860ced1ab0896bf793127a6619fef6169",
+      "clear": "datasets/o_haze/clear/02_outdoor_GT.jpg",
+      "clear_sha256": "681e67aa595a118f14dbbcbee1ae7e15cb7187c419ac171b736db7c430c741af"
+    },
+    {
+      "scene_id": "44",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/44_outdoor_hazy.jpg",
+      "hazy_sha256": "993c8e7dbfe6eac14505f6adccf4774c3accc61adb5e0b6a43d8466f912903bc",
+      "clear": "datasets/o_haze/clear/44_outdoor_GT.jpg",
+      "clear_sha256": "2ca672e24edb4a38b5dd6b65fee418f11a36002250037d196e13aa3a4f16b74d"
+    },
+    {
+      "scene_id": "18",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/18_outdoor_hazy.jpg",
+      "hazy_sha256": "91f86cb36d58a601fce03def3b0dfc23c1c3aa03c1a875bf2ccddd737208b0b7",
+      "clear": "datasets/o_haze/clear/18_outdoor_GT.jpg",
+      "clear_sha256": "7adc13c431fed49ef069732944525894e0fe3aabd9aa6932772d79798de83ec0"
+    },
+    {
+      "scene_id": "23",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/23_outdoor_hazy.jpg",
+      "hazy_sha256": "54037c80d0310f245bd7624240eee2ef7d4bd45b311f26b80f12e18077bad821",
+      "clear": "datasets/o_haze/clear/23_outdoor_GT.jpg",
+      "clear_sha256": "5d8a6d6bf247beecd5e00df16ca5f1b46c5face070cbc105382ee74c8f895923"
+    },
+    {
+      "scene_id": "31",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/31_outdoor_hazy.jpg",
+      "hazy_sha256": "abf60f5d46629d9637e031f1c720eae0b528e5b362ffcb35522b30f7012405e4",
+      "clear": "datasets/o_haze/clear/31_outdoor_GT.jpg",
+      "clear_sha256": "39f2f3cb9047974c994a5d595897de55d9e03211948d2479e1d439e0f93996bc"
+    },
+    {
+      "scene_id": "19",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/19_outdoor_hazy.jpg",
+      "hazy_sha256": "78b5bd64fa1b8dc041e325773402d80ebe54fc05fed5831478c01e3576c36f08",
+      "clear": "datasets/o_haze/clear/19_outdoor_GT.jpg",
+      "clear_sha256": "2f5f56617e325b4f94d3803c38dfd62c12dbc1ee39195677723f3105d12af888"
+    },
+    {
+      "scene_id": "17",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/17_outdoor_hazy.jpg",
+      "hazy_sha256": "95866bf864d72711e46d2b7cd50ef2380d2e79662941bb78fe710024ce77050b",
+      "clear": "datasets/o_haze/clear/17_outdoor_GT.jpg",
+      "clear_sha256": "f7cbd21c2e89aa971a3b42ecb2fd45bdef9d075c7b83e859f9d6b91ebf827e98"
+    },
+    {
+      "scene_id": "12",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/12_outdoor_hazy.jpg",
+      "hazy_sha256": "004f995e95398d7dbba1ff5b97369c0dbf1a3449f88f27ca4c02cd115f5671c7",
+      "clear": "datasets/o_haze/clear/12_outdoor_GT.jpg",
+      "clear_sha256": "ddb1d5199a75c934eae21b2dad51789af9c877cb4057bff64983a3bccf6117b2"
+    },
+    {
+      "scene_id": "09",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/09_outdoor_hazy.jpg",
+      "hazy_sha256": "199a6ad695a650c4af8c63b21476301f92ebb2d0b75b82f5c1a67f5dab5d425a",
+      "clear": "datasets/o_haze/clear/09_outdoor_GT.jpg",
+      "clear_sha256": "30c01a1507a62b2d4225538990a427dfd71e41f7bb349985c09bbb7cb7b6042e"
+    },
+    {
+      "scene_id": "13",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/13_outdoor_hazy.jpg",
+      "hazy_sha256": "625a1d9ac7f4b5e27f13113c9082f0da798c69dc58de1cbc2830bd63530ddf47",
+      "clear": "datasets/o_haze/clear/13_outdoor_GT.jpg",
+      "clear_sha256": "cc4ad90b78f865812d684b876ba87888df1160d8a300d85674e11312a1c4eca9"
+    },
+    {
+      "scene_id": "41",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/41_outdoor_hazy.jpg",
+      "hazy_sha256": "b34462547def19a5a62343cbd09bd9b35954b9bf2d2e7cd6f55a28c47658b86e",
+      "clear": "datasets/o_haze/clear/41_outdoor_GT.jpg",
+      "clear_sha256": "38f132824c5f451bf81a03f3b5231c2700d2fcc2fc0a6153a260c7509e1d33a2"
+    },
+    {
+      "scene_id": "11",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/11_outdoor_hazy.jpg",
+      "hazy_sha256": "7ab5f792fa9b75fce2d21aab5b7a893ad97d1da84a2d4cdb02cc16ab18dd1943",
+      "clear": "datasets/o_haze/clear/11_outdoor_GT.jpg",
+      "clear_sha256": "bb71679611216e5d808694c4ac6056cdb8bd12527afad652e4e5e5945b47e2d7"
+    },
+    {
+      "scene_id": "42",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/42_outdoor_hazy.jpg",
+      "hazy_sha256": "c55421611b132fe01667f49600f69557d75065f48dacee78b87ae09361fff688",
+      "clear": "datasets/o_haze/clear/42_outdoor_GT.jpg",
+      "clear_sha256": "1c671465665b9a80078cdcecb46f9f85f21699270a637d2851aff819fdfa09a9"
+    },
+    {
+      "scene_id": "22",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/22_outdoor_hazy.jpg",
+      "hazy_sha256": "d58cf37a3796ddff48645548122431888fce487a9326931d77750d798e65780d",
+      "clear": "datasets/o_haze/clear/22_outdoor_GT.jpg",
+      "clear_sha256": "7f27ca1163f068d597b875c8f0b9be3fbe069532bb861eaf0ad4a0342a4e7856"
+    },
+    {
+      "scene_id": "35",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/35_outdoor_hazy.jpg",
+      "hazy_sha256": "8a5eb1961698ffdddd4ab7987bde118a4bc46daba1af996d3fadd9e703f81cf7",
+      "clear": "datasets/o_haze/clear/35_outdoor_GT.jpg",
+      "clear_sha256": "884b0c1610f43b76a972e127a5c9954ad4bc851dc231cd59022db0fa77feb547"
+    },
+    {
+      "scene_id": "40",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/40_outdoor_hazy.jpg",
+      "hazy_sha256": "4c015af8b8cb4eaa5b3ee510137eca72e3f1f89c2b39c7175703e09045e0e05f",
+      "clear": "datasets/o_haze/clear/40_outdoor_GT.jpg",
+      "clear_sha256": "06c5d1d7f9f2330a8a97e7e766d68ee6d4ff0ade5dfb659be016784c030ad703"
+    },
+    {
+      "scene_id": "34",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/34_outdoor_hazy.jpg",
+      "hazy_sha256": "e0341dc39b8c670d214847b7df81dbed356dbb9c6078aa33d3175332a227283e",
+      "clear": "datasets/o_haze/clear/34_outdoor_GT.jpg",
+      "clear_sha256": "fe4c751fdf4d188bb99301af5c9bf348de0cb1d6b42bdcebd84857bde97c1a5f"
+    },
+    {
+      "scene_id": "37",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/37_outdoor_hazy.jpg",
+      "hazy_sha256": "9702aced1f490d8a6c06d2120ea487ac2e8b0a29d982dbdc8837b282e0c33218",
+      "clear": "datasets/o_haze/clear/37_outdoor_GT.jpg",
+      "clear_sha256": "ad1d10a2c64e4715e8b5a9151d65b3a941fb7b16812ed550ebf67ca1a10dc31d"
+    },
+    {
+      "scene_id": "10",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/10_outdoor_hazy.jpg",
+      "hazy_sha256": "de6705d017857af6d9406d6c592c297908b298a81aca7cbd28e11ebf96cae951",
+      "clear": "datasets/o_haze/clear/10_outdoor_GT.jpg",
+      "clear_sha256": "86824c328439e7c3580695b4dbb44e278bbbc54f72afed9d0223cf1f398f6510"
+    },
+    {
+      "scene_id": "04",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/04_outdoor_hazy.jpg",
+      "hazy_sha256": "19bc6576599acc60ec02b7d99bec8f3fbbb2e4ab3fa9907ab1291565cd8227a1",
+      "clear": "datasets/o_haze/clear/04_outdoor_GT.jpg",
+      "clear_sha256": "ec70bf1aa8b01dc3f4cbd31feff5ee61c534ec76b1ac26a64b9368436a9acfdf"
+    },
+    {
+      "scene_id": "03",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/03_outdoor_hazy.JPG",
+      "hazy_sha256": "abeb8a0f3543c6d2ae81e9f74bf97890e7cd9bca247cf90347c2f484afcd5992",
+      "clear": "datasets/o_haze/clear/03_outdoor_GT.JPG",
+      "clear_sha256": "a51491be55a203447fba4de3a57e13fa5231d6d6fb75cf53a54d106ea04a818f"
+    },
+    {
+      "scene_id": "20",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/20_outdoor_hazy.jpg",
+      "hazy_sha256": "27359dd6afdf0d505ba4e390bd9ff0bd1cedde45cc345423b554e62d8fb1e63d",
+      "clear": "datasets/o_haze/clear/20_outdoor_GT.jpg",
+      "clear_sha256": "082d2dc3cc683b7bf32f1eb5aaebfe5ffcb9eecc25ddeffd17a5564ca2e49ad7"
+    },
+    {
+      "scene_id": "01",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/01_outdoor_hazy.jpg",
+      "hazy_sha256": "44cac5c0a7c2054e4119b4737493ac4fcd787b6e38384991236046c138b65837",
+      "clear": "datasets/o_haze/clear/01_outdoor_GT.jpg",
+      "clear_sha256": "f137a359f991f059c69d9f4a403757e5507930c4c7bcdd7139a256f4bb5cc379"
+    },
+    {
+      "scene_id": "16",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/16_outdoor_hazy.jpg",
+      "hazy_sha256": "6047f837926426da3aba82238d4e8515f3bc0e7b1ec8cfdd74082226cbb6fc14",
+      "clear": "datasets/o_haze/clear/16_outdoor_GT.jpg",
+      "clear_sha256": "4bf7b8766067654f87520b7f6bff29217a1c1dc374ff2d1df9f6eaf96a3b1626"
+    },
+    {
+      "scene_id": "29",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/29_outdoor_hazy.jpg",
+      "hazy_sha256": "7f5618e26f962efe911ca79c51ff48c98c2fd1e6a10dfbf404fc37b874cae515",
+      "clear": "datasets/o_haze/clear/29_outdoor_GT.jpg",
+      "clear_sha256": "9e5926b92921c63abbdb356351f5f14b57d19b9853f4d2a33c4cd40eaf3acf95"
+    },
+    {
+      "scene_id": "32",
+      "split": "train",
+      "hazy": "datasets/o_haze/hazy/32_outdoor_hazy.jpg",
+      "hazy_sha256": "64166bce1ae629342983253e560db61b5c50151482a48a93b6429cd040437a12",
+      "clear": "datasets/o_haze/clear/32_outdoor_GT.jpg",
+      "clear_sha256": "d93f75007309afb6894889d1cd5b6eae974e5f6a68b4234d3fc00401f6385645"
+    },
+    {
+      "scene_id": "38",
+      "split": "validation",
+      "hazy": "datasets/o_haze/hazy/38_outdoor_hazy.jpg",
+      "hazy_sha256": "e9d0a24f8dc39fc633bf8db60cf2e776fbf0e6555c2c5dc310c2f17f2cc66a26",
+      "clear": "datasets/o_haze/clear/38_outdoor_GT.jpg",
+      "clear_sha256": "e2d116612033862db3bcf2e9dc055b60a5a618f8fc0b07961ee199c4464076ca"
+    },
+    {
+      "scene_id": "27",
+      "split": "validation",
+      "hazy": "datasets/o_haze/hazy/27_outdoor_hazy.jpg",
+      "hazy_sha256": "e19089fd7759838a4ce09e4bebbea9858873ff6c0009bd859714f7a8ac26f482",
+      "clear": "datasets/o_haze/clear/27_outdoor_GT.jpg",
+      "clear_sha256": "d83633471bf0620a06c8116ecc4b1d7b181f5a77feb84cd7bc2e7796d1c5c250"
+    },
+    {
+      "scene_id": "36",
+      "split": "validation",
+      "hazy": "datasets/o_haze/hazy/36_outdoor_hazy.jpg",
+      "hazy_sha256": "665da931995fbc350822c1fa847fa3dc9bf492823c44bf8abcd169786e48d8a2",
+      "clear": "datasets/o_haze/clear/36_outdoor_GT.jpg",
+      "clear_sha256": "30a08d30e346fbf2ced699c975ba5b67b02426b41be4f8d2fa67320d4b464088"
+    },
+    {
+      "scene_id": "39",
+      "split": "validation",
+      "hazy": "datasets/o_haze/hazy/39_outdoor_hazy.jpg",
+      "hazy_sha256": "17e9fe4cd9ac5e8817984b843da48cd13a3a8837d9349a890ffff6bb7fe0864b",
+      "clear": "datasets/o_haze/clear/39_outdoor_GT.jpg",
+      "clear_sha256": "c676f11c06157041e5e2927009b2036dcbf260e0ae29770db5994b0687784902"
+    },
+    {
+      "scene_id": "15",
+      "split": "validation",
+      "hazy": "datasets/o_haze/hazy/15_outdoor_hazy.jpg",
+      "hazy_sha256": "e6fdc0e35ebe5cb3342c8c5c26603b5f916497853d1daa97567722b79b6f2f98",
+      "clear": "datasets/o_haze/clear/15_outdoor_GT.jpg",
+      "clear_sha256": "5ec1e3d7507feb0f5af80140c01975227bff030f88afe032f04139be0cfb663a"
+    },
+    {
+      "scene_id": "07",
+      "split": "test",
+      "hazy": "datasets/o_haze/hazy/07_outdoor_hazy.jpg",
+      "hazy_sha256": "c06b474963eedc1a98c6ec2ef0b8dc467057ab19bd35fb461c667ef62d613c4f",
+      "clear": "datasets/o_haze/clear/07_outdoor_GT.jpg",
+      "clear_sha256": "8cc62616b4e68c96567cd11658ffff61540de2edccb8fddf618f078f8e9b75b1"
+    },
+    {
+      "scene_id": "43",
+      "split": "test",
+      "hazy": "datasets/o_haze/hazy/43_outdoor_hazy.jpg",
+      "hazy_sha256": "c6ff71aabb9f0da727733d1878350fd9775dc587b7a102aeb02c8dc65e6beac9",
+      "clear": "datasets/o_haze/clear/43_outdoor_GT.jpg",
+      "clear_sha256": "369468793daf2286e13883591727740e8bf45864b760053161c59dde8f41ebe6"
+    },
+    {
+      "scene_id": "33",
+      "split": "test",
+      "hazy": "datasets/o_haze/hazy/33_outdoor_hazy.jpg",
+      "hazy_sha256": "7ce9718bf9284ea7148d6807c002872bb748d189075f0fff51f441ccb92cd295",
+      "clear": "datasets/o_haze/clear/33_outdoor_GT.jpg",
+      "clear_sha256": "3dfe07349a9dd10996a3d74b2f016642e241e8b4e2723423b7c8960c5e87b003"
+    },
+    {
+      "scene_id": "21",
+      "split": "test",
+      "hazy": "datasets/o_haze/hazy/21_outdoor_hazy.JPG",
+      "hazy_sha256": "a16286665fb08de32699ffbc7d6da3bd4b024db2a35a83c746fb4d84d065e478",
+      "clear": "datasets/o_haze/clear/21_outdoor_GT.JPG",
+      "clear_sha256": "9d42dd4eb74647f3d370421fb351df53f6a7d07eb72b56eabae1e9b3e7d5e913"
+    },
+    {
+      "scene_id": "08",
+      "split": "test",
+      "hazy": "datasets/o_haze/hazy/08_outdoor_hazy.jpg",
+      "hazy_sha256": "07824f8c24eb2ec3287098aba2666bccd9a04e2657b58321227f229f0c4d187c",
+      "clear": "datasets/o_haze/clear/08_outdoor_GT.jpg",
+      "clear_sha256": "504d81f9e751c0d1ab94e6d62c2ca96b106bbb8da86b36a5940eae072f843f99"
+    }
+  ]
+}
